@@ -1,0 +1,22 @@
+.logo {
+    border: solid 1px black;
+    width: max-content;
+
+}
+
+.card {
+    width: 250px;
+    height: 150px;
+    background: red;
+    border-radius: 15px;
+    float: left;
+    margin: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card-name {
+    height: 20px;
+    font-size: 30px;
+}
