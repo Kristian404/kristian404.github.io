@@ -14,9 +14,39 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    background-size: cover;
+    box-shadow: 15px 15px 15px rgb(211, 23, 23) ;
+    background-repeat: no-repeat;
 }
 
 .card-name {
     height: 20px;
     font-size: 30px;
+}
+.cs-go {
+    background-image: url('images/CS-GO.jpg');
+    color: whitesmoke;
+    font-weight: 700;
+}
+.fortnite {
+    background-image: url('images/Fortnite.jpg');
+    font-weight: 700;
+}
+.apex {
+    background-image: url('images/Apex.jpg');
+    font-weight: 700;
+}
+.fifa-20 {
+    background-image: url('images/Fifa-20.jpg');
+    font-weight: 700;
+    color: red;
+}
+.warface {
+    background-image: url('images/Warface.jpg');
+    color: whitesmoke;
+    font-weight: 700;
+}
+.pubg {
+    background-image: url('images/PUBG.jpg');
+    font-weight: 700;
 }
